@@ -1,2 +1,5 @@
 # Ignore build folders
 build*/
+
+# Ignore pro.user files
+*.pro.user
